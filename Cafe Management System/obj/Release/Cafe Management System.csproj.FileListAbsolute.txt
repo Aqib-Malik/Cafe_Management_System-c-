@@ -1,0 +1,41 @@
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Cafe Management System.exe.config
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Cafe Management System.exe
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Cafe Management System.pdb
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\BouncyCastle.Crypto.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Google.Protobuf.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Guna.UI2.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\K4os.Compression.LZ4.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\K4os.Compression.LZ4.Streams.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\K4os.Hash.xxHash.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\MySql.Data.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Renci.SshNet.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\System.Buffers.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\System.Memory.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\System.Numerics.Vectors.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Ubiety.Dns.Core.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Zstandard.Net.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Google.Protobuf.pdb
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Google.Protobuf.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\K4os.Compression.LZ4.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\K4os.Compression.LZ4.Streams.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\K4os.Hash.xxHash.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\MySql.Data.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\Renci.SshNet.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\System.Buffers.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\System.Memory.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\System.Numerics.Vectors.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe_Management_System.All_User_Controls.uc_additem.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe_Management_System.All_User_Controls.UC_placerorder.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe_Management_System.All_User_Controls.UC_RemoveItem.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe_Management_System.All_User_Controls.UC_Update_item.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe_Management_System.All_User_Controls.UserControl1.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe_Management_System.Dashboard.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe_Management_System.Form1.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe_Management_System.Properties.Resources.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe Management System.csproj.GenerateResource.cache
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe Management System.csproj.CoreCompileInputs.cache
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe Management System.csproj.CopyComplete
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe Management System.exe
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Release\Cafe Management System.pdb

@@ -1,0 +1,47 @@
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\BouncyCastle.Crypto.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\ClassLibrary1.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Google.Protobuf.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Guna.UI2.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\K4os.Compression.LZ4.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\K4os.Hash.xxHash.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\MySql.Data.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Renci.SshNet.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\System.Buffers.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\System.Memory.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\System.Numerics.Vectors.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Ubiety.Dns.Core.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Zstandard.Net.dll
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\ClassLibrary1.pdb
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Google.Protobuf.pdb
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Google.Protobuf.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\K4os.Compression.LZ4.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\K4os.Hash.xxHash.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\MySql.Data.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\Renci.SshNet.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\System.Buffers.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\System.Memory.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\System.Numerics.Vectors.xml
+F:\software\C#\Cafe Management System\Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csprojAssemblyReference.cache
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe.config
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.All_User_Controls.uc_additem.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.All_User_Controls.UC_placerorder.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.All_User_Controls.UC_RemoveItem.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.All_User_Controls.UC_Update_item.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.All_User_Controls.UserControl1.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.logIn.resources
+F:\software\C#\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.signUp.resources
